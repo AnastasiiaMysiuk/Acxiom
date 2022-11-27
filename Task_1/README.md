@@ -1,9 +1,10 @@
-Initial conditions: 
+## Initial conditions: 
 OS: Windows
 Programming Language: Python
 Driver: Selenium
 Browser: Google Chrome
 
+## Steps
 1. Download Python 3.10 (https://www.python.org/downloads/release/python-3100/)
 2. Install Python 3.10
 3. Download PyCharm (https://www.jetbrains.com/pycharm/download/#section=windows)
