@@ -21,6 +21,6 @@ class TitleFetch(unittest.TestCase):
     def tearDown(self) -> None:
         self.driver.close()
 
-
+print("dfdf")
 if __name__ == '__main':
     unittest.main()
